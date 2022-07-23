@@ -1,0 +1,15 @@
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\bin\Debug\net6.0\ConsoleAppArraysIntrodução.exe
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\bin\Debug\net6.0\ConsoleAppArraysIntrodução.deps.json
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\bin\Debug\net6.0\ConsoleAppArraysIntrodução.runtimeconfig.json
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\bin\Debug\net6.0\ConsoleAppArraysIntrodução.dll
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\bin\Debug\net6.0\ConsoleAppArraysIntrodução.pdb
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.csproj.AssemblyReference.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.AssemblyInfoInputs.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.AssemblyInfo.cs
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.csproj.CoreCompileInputs.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.dll
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\refint\ConsoleAppArraysIntrodução.dll
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.pdb
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ConsoleAppArraysIntrodução.genruntimeconfig.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\ConsoleAppArraysIntrodução\ConsoleAppArraysIntrodução\obj\Debug\net6.0\ref\ConsoleAppArraysIntrodução.dll

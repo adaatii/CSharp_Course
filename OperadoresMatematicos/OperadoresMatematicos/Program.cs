@@ -17,7 +17,7 @@ namespace OperadoresMatematicos
             total = a + b;
 
             Console.WriteLine("A soma de a + b = " + total);
-            Console.WriteLine("A soma de a + b = " + a + b); // concatena tudo (console entende que são todas strings) retornando "a" ao lado de "b"
+            //Console.WriteLine("A soma de a + b = " + a + b); // concatena tudo (console entende que são todas strings) retornando "a" ao lado de "b"
             Console.WriteLine("A soma de a + b = " + (a + b)); // regra do parenteses, o codigo é executado dentro de cada unidade de parenteses.
             Console.WriteLine("A subtração de a - b = " + (a - b));
             Console.WriteLine("A multiplicação de a * b = " + (a * b));
