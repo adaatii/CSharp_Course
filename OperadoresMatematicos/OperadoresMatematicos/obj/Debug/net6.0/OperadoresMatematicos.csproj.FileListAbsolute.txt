@@ -1,0 +1,15 @@
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net6.0\OperadoresMatematicos.exe
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net6.0\OperadoresMatematicos.deps.json
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net6.0\OperadoresMatematicos.runtimeconfig.json
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net6.0\OperadoresMatematicos.dll
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net6.0\OperadoresMatematicos.pdb
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.csproj.AssemblyReference.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.AssemblyInfoInputs.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.AssemblyInfo.cs
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.dll
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\refint\OperadoresMatematicos.dll
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.pdb
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\OperadoresMatematicos.genruntimeconfig.cache
+C:\Users\adati\Documents\GitHub\CSharp_Course\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net6.0\ref\OperadoresMatematicos.dll
