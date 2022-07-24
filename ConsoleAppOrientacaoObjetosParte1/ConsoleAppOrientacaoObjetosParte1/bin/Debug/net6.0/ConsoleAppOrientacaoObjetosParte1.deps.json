@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppOrientacaoObjetosParte1/1.0.0": {
+        "runtime": {
+          "ConsoleAppOrientacaoObjetosParte1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppOrientacaoObjetosParte1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

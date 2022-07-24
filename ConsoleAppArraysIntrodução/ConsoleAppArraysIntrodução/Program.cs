@@ -25,7 +25,7 @@
                 Console.WriteLine("O dia da semana é: " + dia);
             }
 
-            Console.WriteLine("A posição de quarta é: " + Array.IndexOf(semana, "Quartaa"));
+            Console.WriteLine("A posição de quarta é: " + Array.IndexOf(semana, "Quartaa")); // retorno -1 = não foi encontrado
 
             
         }
