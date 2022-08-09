@@ -13,10 +13,34 @@ namespace ConsoleAppOrientacaoObjetosParte1
         //Métodos = Acões
 
         //Declaração dos atributos
-        public string nome;
-        public int idade;
-        public double peso;
-        public string sexo;
+        private string nome;
+        private int idade;
+        private double peso;
+        private string sexo;
+
+        public string Nome
+        {
+            get { return nome; }
+        }
+
+        public int Idade 
+        { 
+            get { return idade; }
+            set { idade = value; }
+        }
+
+        public double Peso
+        {
+            get { return peso; }
+            set { peso = value; }
+        }
+
+        public string Sexo
+        {
+            get { return sexo; }
+            set { sexo = value; }
+        }
+       
 
         public Pessoa(string _nome)
         {
@@ -32,6 +56,11 @@ namespace ConsoleAppOrientacaoObjetosParte1
         public void Comer(string _comida)
         {
             Console.WriteLine("{0} está comendo {1}.", this.nome, _comida);
+        }
+
+        public override string ToString()
+        {
+            return String.Format("Nome: {0}, Idade: {1}, Sexo: {2}, Peso: {3}", Nome, Idade, sexo, peso);
         }
     }
 }
