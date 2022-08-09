@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppOrientacaoObjetosParte1
 {
-    public class Pessoa
+    public abstract class Pessoa
     {
         //Atributos e Métodos
         //Atributos = caracteristicas
